@@ -1,0 +1,67 @@
+html{
+    font-size: 20px;
+}
+
+.casilla{
+    text-align: center;
+    height: 3rem;
+    width: 3rem;
+    font-size: 2rem;
+    background-color: rgb(223, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.Cpuntos{
+    font-size: 2rem;
+    font-family: "Courier New", Courier, monospace;
+    
+}
+
+.Usuario{
+    text-align: center;
+    height: 3rem;
+    width: 10rem;
+    font-size: 2rem;
+    background-color: rgb(223, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.ok{
+    text-align: center;
+    height: 3rem;
+    width: 3rem;
+    font-size: 2rem;
+    background-color: rgb(0, 74, 158);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.Player{
+    text-align: center;
+    height: 3rem;
+    width: 3rem;
+    font-size: 2rem;
+    background-color: rgb(0, 74, 158);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    font-family: "Courier New", Courier, monospace;
+}
+
+div, h1{
+    text-align: center;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(223, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: "Courier New", Courier, monospace;
+}
